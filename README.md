@@ -1,2 +1,2 @@
-# class-27
-sprite sheet and json data
+# PRO-C27-SA
+Boilerplate code for c27 SA
